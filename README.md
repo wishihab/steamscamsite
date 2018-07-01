@@ -20,7 +20,11 @@
 
 
 
+# 100% Scam?
+Should be.
 
+# How?
+Reading the code, behavior, analyzing, sumbit/report, try.
 
 # Submit?
 send issues or send wishihab@gmail.com https://steamcommunity.com/id/wishihab https://instagram.com/dota2storeid
