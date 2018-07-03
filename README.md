@@ -14,7 +14,7 @@
 | Trading Dota 2 | http://yaetolublu.xyz/ | Offers trading, comment on profile | 7/2/2018 |
 | Trading Dota 2 | http://wewllneverstop.xyz | Offers trading, comment on profile | 7/2/2018 |
 | Trading Dota 2 | https://steamcomnmuniltu.com/ | Copy steam community | 7/2/2018 |
-| Betting Site Dota 2 | www.XbetDota2.com | Offers promo code for betting | 7/2/2018 |
+| Betting Site Dota 2 | https://www.1xbetdota2.com/ | Offers promo code for betting | 7/2/2018 |
 | DOTA 2 Open Case | https://dota-skins.com/ | Offers promo code for open case |  |
 | Trading Dota 2 | http://chtotonovoe.info/ | Offers trading, comment on profile | 7/2/2018 |
 | CSGO Dota Betting site | https://farmbets.com/ | Offers free item, betting for free | 7/3/2018 |
