@@ -17,6 +17,7 @@
 | Betting Site Dota 2 | www.XbetDota2.com | Offers promo code for betting | 7/2/2018 |
 | DOTA 2 Open Case | https://dota-skins.com/ | Offers promo code for open case |  |
 | Trading Dota 2 | http://chtotonovoe.info/ | Offers trading, comment on profile | 7/2/2018 |
+| CSGO Dota Betting site | https://farmbets.com/ | Offers free balance, betting free | 7/3/2018 |
 
 
 
