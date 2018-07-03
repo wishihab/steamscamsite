@@ -4,7 +4,7 @@
 
 
 
-| Site Name | Link | Behavior | Last Check |
+| Name | Link | Behavior | Last Check |
 | ------------------ | ------------------------- | ------------------------- | ---------- |
 | CSGO Open Case | http://case-market.com/ | Offers cheap online open case | 4/11/2018 |
 | Steam Community | https://steamcomnnunuitu.com | Copy steam community | 5/1/2018 |
