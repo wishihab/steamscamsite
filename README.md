@@ -20,12 +20,12 @@
 | CSGO Dota Betting site | https://farmbets.com/ | Offers free item, betting for free | 7/3/2018 |
 | Trading Dota 2 Item | http://Kakkormitkota.info | Offers free dota items | 7/4/2018 |
 | Steam Community | https://steamcomuniuly.com | Copy steam community | 7/4/2018 |
-
+| CSGO Open Case | https://skinhub.com | Live drop and daily doesnt change | 7/4/2018 |
 
 
 
 # 100% Scam?
-Should be.
+Should be. 
 
 # How?
 Reading the code, behavior, analyzing, sumbit/report, try.
