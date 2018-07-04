@@ -18,6 +18,8 @@
 | DOTA 2 Open Case | https://dota-skins.com/ | Offers promo code for open case |  |
 | Trading Dota 2 | http://chtotonovoe.info/ | Offers trading, comment on profile | 7/2/2018 |
 | CSGO Dota Betting site | https://farmbets.com/ | Offers free item, betting for free | 7/3/2018 |
+| Trading Dota 2 Item | http://Kakkormitkota.info | Offers free dota items | 7/4/2018 |
+| Steam Community | https://steamcomuniuly.com | Copy steam community | 7/4/2018 |
 
 
 
