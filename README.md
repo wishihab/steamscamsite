@@ -28,6 +28,7 @@
 | Trading Item DOta | http://zayacnupogodi.info | Offers free dota items | 7/5/2018 |
 | Steam Community | https://steamcomuniutly.com | Copy steam community | 7/5/2018 |
 | Swap and Trading CSGO | https://swapinsane.com/ | Offers free knife | 7/6/2018 |
+| CSGO Open Case | https://elitedrop.ru | Offers free skin | 7/6/2018 |
 
 # 100% Scam?
 Should be. 
