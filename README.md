@@ -21,7 +21,10 @@
 | Trading Dota 2 Item | http://Kakkormitkota.info | Offers free dota items | 7/4/2018 |
 | Steam Community | https://steamcomuniuly.com | Copy steam community | 7/4/2018 |
 | CSGO Open Case | https://skinhub.com | Live drop and daily doesnt change | 7/4/2018 |
-
+| CSGO Open Case | http://csgo-login.pl | Send to steam login | 7/5/2018 |
+| CSGO Open Case | https://csgo-skins.com/ | Cheap open case, promo code | 7/5/208 |
+| Trading Item Dota | http://yadovitiikotspit.space/ | Offers free dota 2 item | 7/5/2018 |
+| Steam Community | https://steamcomunuilu.com/ | Copy steam community | 7/5/2018 |
 
 
 # 100% Scam?
