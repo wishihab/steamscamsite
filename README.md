@@ -25,6 +25,8 @@
 | CSGO Open Case | https://csgo-skins.com/ | Cheap open case, promo code | 7/5/208 |
 | Trading Item Dota | http://yadovitiikotspit.space/ | Offers free dota 2 item | 7/5/2018 |
 | Steam Community | https://steamcomunuilu.com/ | Copy steam community | 7/5/2018 |
+| Trading Item DOta | http://zayacnupogodi.info | Offers free dota items | 7/5/2018 |
+| Steam Community | https://steamcomuniutly.com | Copy steam community | 7/5/2018 |
 
 
 # 100% Scam?
