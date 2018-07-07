@@ -29,6 +29,7 @@
 | Steam Community | https://steamcomuniutly.com | Copy steam community | 7/5/2018 |
 | Swap and Trading CSGO | https://swapinsane.com/ | Offers free knife | 7/6/2018 |
 | CSGO Open Case | https://elitedrop.ru | Offers free skin | 7/6/2018 |
+| Open Case | http://dropnice.top/ | Offers free open case Dota, Csgo, h1z1, TF2 | 7/7/2018 |
 
 # 100% Scam?
 Should be. 
