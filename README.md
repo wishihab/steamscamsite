@@ -33,6 +33,7 @@
 | Trading Item Dota | http://kakzheyanezametil.space | Offers free dota item | 7/7/2018 |
 | Trading CSGO Item | http://nemeshaitespat.fun | Offers free knife | 7/8/2018 |
 | Steam Community | https://steamcommunuty.net | Copy steam community | 7/8/2018 |
+| Open Case | https://openwinskin.com | Promote code free deposit | 7/8/2018 |
 
 
 # 100% Scam?
