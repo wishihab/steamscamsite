@@ -34,6 +34,7 @@
 | Trading CSGO Item | http://nemeshaitespat.fun | Offers free knife | 7/8/2018 |
 | Steam Community | https://steamcommunuty.net | Copy steam community | 7/8/2018 |
 | Open Case | https://openwinskin.com | Promote code free deposit | 7/8/2018 |
+| Open Case | https://openskinwin.com | Promote code for free deposit | 7/15/2018 |
 
 
 # 100% Scam?
