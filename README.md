@@ -35,6 +35,9 @@
 | Steam Community | https://steamcommunuty.net | Copy steam community | 7/8/2018 |
 | Open Case | https://openwinskin.com | Promote code free deposit | 7/8/2018 |
 | Open Case | https://openskinwin.com | Promote code for free deposit | 7/15/2018 |
+| Trading Item Dota | http://makeloutrjo.pw | Free arcana trading | 7/17/2018 |
+| Steam Community | https://steancomnumity.com | Copy steamcommunity | 7/17/2018 |
+
 
 
 # 100% Scam?
