@@ -37,7 +37,7 @@
 | Open Case | https://openskinwin.com | Promote code for free deposit | 7/15/2018 |
 | Trading Item Dota | http://makeloutrjo.pw | Free arcana trading | 7/17/2018 |
 | Steam Community | https://steancomnumity.com | Copy steamcommunity | 7/17/2018 |
-| Open case | http://skinsopenwins.com  | Offers promote code | 7/23/2018 |
+| Open case | https://skinsopenwins.com  | Offers promote code | 7/23/2018 |
 | Betting Site | https://farmbets.net | Free promocode for betting | 7/24/2018 |
 | Dota Betting | http://dota-loto.com | Free promocode for betting | 7/26/2018 |
 | Trading Item Dota | http://poeroiahilomak.xyz | Free arcana | 7/26/2018 |
