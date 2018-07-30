@@ -42,7 +42,7 @@
 | Dota Betting | http://dota-loto.com | Free promocode for betting | 7/26/2018 |
 | Trading Item Dota | http://poeroiahilomak.xyz | Free arcana | 7/26/2018 |
 | Steam community | https://steancommunutu.com | Copy steamcommunity | 7/26/2018 |
-
+| Free item for watching ads | https://sponsorskin.com/ | Free Item if user watch video | 7/30/2018 |
 
 # 100% Scam?
 Should be. 
