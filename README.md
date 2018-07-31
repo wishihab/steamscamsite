@@ -45,6 +45,7 @@
 | Free item | https://sponsorskin.com/ | Free Item if user watch video | 7/30/2018 |
 | Free item | https://sprvideos.com | Free Item if user watch video | 7/31/2018 |
 | Trading Item Dota | http://helhaimsmkopla.xyz | Free arcana | 7/31/2018 |
+| Steam community | https://steamcommumuly.com | Copy steamcommunity | 7/31/2018 |
 
 
 # 100% Scam?
