@@ -46,8 +46,8 @@
 | Free item | https://sprvideos.com | Free Item if user watch video | 7/31/2018 |
 | Trading Item Dota | http://helhaimsmkopla.xyz | Free arcana | 7/31/2018 |
 | Steam community | https://steamcommumuly.com | Copy steamcommunity | 7/31/2018 |
-| Trading Item Dota | http://lovdsjlmaemy.xyz | Free arcana | 7/31/2018 |
-| Steam community | https://steanconnunity.com/ | Copy steamcommunity | 7/31/2018 |
+| Trading Item Dota | http://lovdsjlmaemy.xyz | Free arcana | 8/1/2018 |
+| Steam community | https://steanconnunity.com/ | Copy steamcommunity | 8/1/2018 |
 
 
 # 100% Scam?
