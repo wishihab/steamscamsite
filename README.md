@@ -52,6 +52,8 @@
 | Trading CSGO Item | http://lootfari2li.xyz | Offers free knife | 8/2/2018 |
 | Open Case | https://lootlfarm.com/ | Promote code free deposit | 8/2/2018 |
 | Betting Site | https://dota-crit.com/ | Free promocode for betting | 8/4/2018 |
+| Trading Item Dota | http://miwithiutdoodo.xyz | Free arcana | 8/9/2018 |
+| Steam community | https://steamconmnumity.com | Copy steamcommunity | 8/9/2018 |
 
 
 
