@@ -56,6 +56,8 @@
 | Steam community | https://steamconmnumity.com | Copy steamcommunity | 8/9/2018 |
 | Trading Item Dota | http://efsjdomongowalo.xyz | Free arcana | 8/13/2018 |
 | Steam community | https://steamcomnumitly.com | Copy steamcommunity | 8/13/2018 |
+| Trading Item Dota | http://lonbardimaniko.xyz | Free arcana | 8/14/2018 |
+| Steam community | https://steamcomnumitlu.com | Copy steamcommunity | 8/14/2018 |
 
 
 
