@@ -63,6 +63,8 @@
 | Steam community | https://steamconnumitly.com | Copy steamcommunity | 8/17/2018 |
 
 
+# Example Admin Login Page FakeSteam
+fakeSteam Dudka Panel, Tipur Support Panel | https://steamconnumitly.com/admin/auth
 
 # 100% Scam?
 Should be. 
