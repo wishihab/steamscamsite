@@ -66,6 +66,8 @@
 | Betting Site | https://reflexdrop.com/ | Free promocode for betting | 8/24/2018 |
 | Steam community | https://steamcomnunultu.com | Copy steamcommunity | 8/26/2018 |
 | Steam community | https://steancomnunuity.com | Copy steamcommunity | 8/26/2018 |
+| Open Case | https://openwinrolls.com/ | Promote code free deposit | 8/26/2018 |
+
 
 # Example Admin Login Page FakeSteam
 fakeSteam Dudka Panel, Tipur Support Panel | https://steamconnumitly.com/admin/auth
