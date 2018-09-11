@@ -74,11 +74,11 @@
 | Steam community | https://steanconmunitu.com | Copy steamcommunity | 9/7/2018 |
 | Steam community | https://steamconmuniuly.com | Copy steamcommunity | 9/9/2018 |
 | Steam community | https://steamconmunulu.com | Copy steamcommunity | 9/10/2018 |
-
+| Steam community | https://steamcommunutlu.com | Copy steamcommunity | 9/10/2018 |
 
 
 # Example Admin Login Page FakeSteam
-fakeSteam Dudka Panel, Tipur Support Panel | https://steamconmunulu.com/admin/auth
+fakeSteam Dudka Panel, Tipur Support Panel | https://steamcommunutlu.com/admin/auth
 
 # 100% Scam?
 Should be. 
