@@ -76,7 +76,10 @@
 | Steam community | https://steamconmunulu.com | Copy steamcommunity | 9/10/2018 |
 | Steam community | https://steamcommunutlu.com | Copy steamcommunity | 9/11/2018 |
 | Steam community | https://steamconnmunutly.com | Copy steamcommunity | 9/13/2018 |
-| Betting Site | http://dota2expert.com| Free promocode for betting | 10/03/2018 |
+| Betting Site | http://dota2expert.com | Free promocode for betting | 10/03/2018 |
+| Betting Site | http://ezauth.info/ | Free promocode for betting | 10/073/2018 |
+| Betting Site | http://pubg-roulette.net/ | Free promocode for betting | 10/07/2018 |
+| Betting Site | http://csgo-roulette.net/ | Free promocode for betting | 10/07/2018 |
 
 # Example Admin Login Page FakeSteam
 fakeSteam Dudka Panel, Tipur Support Panel | https://steamcommunutlu.com/admin/auth
