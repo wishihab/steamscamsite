@@ -80,6 +80,9 @@
 | Betting Site | http://ezauth.info/ | Free promocode for betting | 10/073/2018 |
 | Betting Site | http://pubg-roulette.net/ | Free promocode for betting | 10/07/2018 |
 | Betting Site | http://csgo-roulette.net/ | Free promocode for betting | 10/07/2018 |
+| Betting Site | https://dota2-buff.com/ | Free promocode for betting | 10/21/2018 |
+| Betting Site | http://Xbet-Rampage.com  | Free promocode for betting | 10/21/2018 |
+
 
 # Example Admin Login Page FakeSteam
 fakeSteam Dudka Panel, Tipur Support Panel | https://steamcommunutlu.com/admin/auth
