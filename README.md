@@ -82,7 +82,9 @@
 | Betting Site | http://csgo-roulette.net/ | Free promocode for betting | 10/07/2018 |
 | Betting Site | https://dota2-buff.com/ | Free promocode for betting | 10/21/2018 |
 | Betting Site | http://Xbet-Rampage.com  | Free promocode for betting | 10/21/2018 |
-
+| Trading Item Dota | http://lomantinakolava.xyz | Exchange LS to Arcana | 10/25/2018 |
+| Steam community | http://steampowerod.com/ https://market.steampowerod.com/ | Copy steamcommunity | 10/25/2018 |
+| Steam community | https://market.steampowerod.com/community/groups/reddit | Copy steamcommunity group | 9/25/2018 |
 
 # Example Admin Login Page FakeSteam
 fakeSteam Dudka Panel, Tipur Support Panel | https://steamcommunutlu.com/admin/auth
