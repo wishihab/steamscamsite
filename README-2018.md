@@ -87,14 +87,4 @@
 | Steam community | https://market.steampowerod.com/ | Copy steamcommunity group | 10/25/2018 |
 | Free item | https://gitcoin.su/ | Free Item if user watch video | 11/04/2018 |
 
-# Example Admin Login Page FakeSteam
-fakeSteam Dudka Panel, Tipur Support Panel | https://steamcommunutlu.com/admin/auth
 
-# 100% Scam?
-Should be. 
-
-# How?
-Reading the code, behavior, analyzing, sumbit/report, try.
-
-# Submit?
-send issues or send wishihab@gmail.com https://steamcommunity.com/id/wishihab
