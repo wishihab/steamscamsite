@@ -86,6 +86,7 @@
 | Steam community | http://steampowerod.com/ | Copy steamcommunity | 10/25/2018 |
 | Steam community | https://market.steampowerod.com/ | Copy steamcommunity group | 10/25/2018 |
 | Free item | https://gitcoin.su/ | Free Item if user watch video | 11/04/2018 |
+| Free drop item | https://dropxskin.com/ | Free drop item | 11/05/2018 |
 
 # Example Admin Login Page FakeSteam
 fakeSteam Dudka Panel, Tipur Support Panel | https://steamcommunutlu.com/admin/auth
