@@ -2,7 +2,7 @@
 <h3 align="center">Please Don't Open This Site, I Haven't Responsible For Any Problem.</h1>
 <h4 align="center">Stay Safe, I'm Paranoid</h1>
 <h4 align="center">This readme contains 10 latest scam link</h1>
-<h4 align="center">[https://github.com/wishihab/steamscamsite/blob/master/README-2018.md](FULL SCAM LINK 2018)</h1>
+<h4 align="center">[FULL SCAM LINK 2018](https://github.com/wishihab/steamscamsite/blob/master/README-2018.md)</h1>
 
 
 | Name | Link | Behavior | Last Check |
