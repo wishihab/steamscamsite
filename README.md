@@ -16,7 +16,7 @@
 | Free item / skins | https://csgoden.pro/giveaway | Free item / skins | 11/08/2018 |
 | Free item / skins | http://csgodoubt.pro | Free item / skins | 11/08/2018 |
 | Trading Bot | https://cs.money/ | Trading scam | 11/08/2018 |
-| Trading Bot | https://csgojavelin.pro/giveaway | Trading scam | 12/08/2018 |
+| Trading Bot | https://csgojavelin.pro/giveaway | Trading scam | 11/09/2018 |
 
 # Example Admin Login Page FakeSteam
 fakeSteam Dudka Panel, Tipur Support Panel | https://steamcommunutlu.com/admin/auth
