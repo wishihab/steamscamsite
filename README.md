@@ -15,10 +15,15 @@
 | Free drop item | https://dropxskin.com/ | Free drop item | 11/05/2018 |
 | Free item / skins | https://csgoden.pro/giveaway | Free item / skins | 11/08/2018 |
 | Free item / skins | http://csgodoubt.pro | Free item / skins | 11/08/2018 |
+| Trading Bot | https://cs.money | Trading scam | 11/08/2018 |
 | Trading Bot | https://csgojavelin.pro/giveaway | Trading scam | 11/09/2018 |
+| Trading Bot + fake login | https://dota2.money | fake login steam | 11/09/2018 |
+
+
 
 # Example Admin Login Page FakeSteam
 fakeSteam Dudka Panel, Tipur Support Panel | https://steamcommunutlu.com/admin/auth
+fakeLogin https://dota2.money/m1LX4kN6tk/pj52xrmek5/5pepfpobq3?q=m1LX4kN6tk&s=53fb783aa73af07161a41431efb5cce4
 
 # 100% Scam?
 Should be. 
