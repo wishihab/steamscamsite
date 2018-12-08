@@ -18,7 +18,7 @@
 | Trading Bot | https://cs.money | Trading scam | 11/08/2018 |
 | Trading Bot | https://csgojavelin.pro/giveaway | Trading scam | 11/09/2018 |
 | Trading Bot + fake login | https://dota2.money | fake login steam | 11/09/2018 |
-
+| Open Case | https://brabusdrop.life/ | cheap Case | 12/08/2018 |
 
 
 # Example Admin Login Page FakeSteam
