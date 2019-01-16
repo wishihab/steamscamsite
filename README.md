@@ -19,6 +19,8 @@
 | Trading Bot | https://csgojavelin.pro/giveaway | Trading scam | 11/09/2018 |
 | Trading Bot + fake login | https://dota2.money | fake login steam | 11/09/2018 |
 | Open Case | https://brabusdrop.life/ | cheap Case | 12/08/2018 |
+| Free deposit | http://clc.am/freeXskin | Free Deposit 11$ | 01/16/2019 |
+| Free item | https://csgoxprom.online/ | Free Item if user watch video | 01/16/2019 |
 
 
 # Example Admin Login Page FakeSteam
