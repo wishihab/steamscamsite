@@ -7,18 +7,6 @@
 
 | Name | Link | Behavior | Last Check |
 | ------------------ | ------------------------- | ------------------------- | ---------- |
-| Betting Site | http://Xbet-Rampage.com  | Free promocode for betting | 10/21/2018 |
-| Trading Item Dota | http://lomantinakolava.xyz | Exchange LS to Arcana | 10/25/2018 |
-| Steam community | http://steampowerod.com/ | Copy steamcommunity | 10/25/2018 |
-| Steam community | https://market.steampowerod.com/ | Copy steamcommunity group | 10/25/2018 |
-| Free item | https://gitcoin.su/ | Free Item if user watch video | 11/04/2018 |
-| Free drop item | https://dropxskin.com/ | Free drop item | 11/05/2018 |
-| Free item / skins | https://csgoden.pro/giveaway | Free item / skins | 11/08/2018 |
-| Free item / skins | http://csgodoubt.pro | Free item / skins | 11/08/2018 |
-| Trading Bot | https://cs.money | Trading scam | 11/08/2018 |
-| Trading Bot | https://csgojavelin.pro/giveaway | Trading scam | 11/09/2018 |
-| Trading Bot + fake login | https://dota2.money | fake login steam | 11/09/2018 |
-| Open Case | https://brabusdrop.life/ | cheap Case | 12/08/2018 |
 | Free deposit | http://clc.am/freeXskin | Free Deposit 11$ | 01/16/2019 |
 | Free item | https://csgoxprom.online/ | Free Item if user watch video | 01/16/2019 |
 | Open Case | http://csmoneyloot.online | cheap Case | 01/24/2019 |
