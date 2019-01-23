@@ -21,6 +21,9 @@
 | Open Case | https://brabusdrop.life/ | cheap Case | 12/08/2018 |
 | Free deposit | http://clc.am/freeXskin | Free Deposit 11$ | 01/16/2019 |
 | Free item | https://csgoxprom.online/ | Free Item if user watch video | 01/16/2019 |
+| Open Case | http://csmoneyloot.online | cheap Case | 01/24/2019 |
+| Trading & Upgrade | https://csgox5-skins.pro/ | Upgrade CSGO Skins | 01/24/2019 |
+
 
 
 # Example Admin Login Page FakeSteam
