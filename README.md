@@ -7,7 +7,6 @@
 
 | Name | Link | Behavior | Last Check |
 | ------------------ | ------------------------- | ------------------------- | ---------- |
-| Free deposit | http://clc.am/freeXskin | Free Deposit 11$ | 01/16/2019 |
 | Free item | https://csgoxprom.online/ | Free Item if user watch video | 01/16/2019 |
 | Open Case | http://csmoneyloot.online | cheap Case | 01/24/2019 |
 | Trading & Upgrade | https://csgox5-skins.pro/ | Upgrade CSGO Skins | 01/24/2019 |
