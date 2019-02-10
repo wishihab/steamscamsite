@@ -13,6 +13,8 @@
 | Trading & Upgrade | https://csgox5-skins.pro/ | Upgrade CSGO Skins | 01/24/2019 |
 | Free arcana item | http://dota2-land.info | Free Arcana and item giveaway | 01/31/2019 |
 | Free arcana item | https://dota2-land.com/ | Free Arcana and item giveaway | 01/31/2019 |
+| Free item | https://giveawaycsgo.pro/ | CSGO Item giveaway| 02/10/2019 |
+
 
 
 # Example Admin Login Page FakeSteam
