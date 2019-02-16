@@ -14,6 +14,7 @@
 | Free arcana item | https://dota2-land.com/ | Free Arcana and item giveaway | 01/31/2019 |
 | Free item | https://giveawaycsgo.pro/ | CSGO Item giveaway | 02/10/2019 |
 | Free skins | http://tradeskins.store | Trade skin dota | 02/10/2019 |
+| Free item / arcana | https://dota2land.com | free trade arcana | 02/16/2019 |
 
 
 
