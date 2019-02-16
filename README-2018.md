@@ -101,6 +101,10 @@
 | Trading Bot | https://csgojavelin.pro/giveaway | Trading scam | 11/09/2018 |
 | Trading Bot + fake login | https://dota2.money | fake login steam | 11/09/2018 |
 | Open Case | https://brabusdrop.life/ | cheap Case | 12/08/2018 |
+| CSGO Scam | https://csgozfunny.com/ | by issues | 2018 |
+| CSGO Scam | https://cs-power.pw/ | by issues | 2018 |
+| Skins Scam | http://skinstats.net/ | by issues | 2018 |
+| Skins Scam | http://tf2pounce.com/ | by issues | 2018 |
 
 # Example Admin Login Page FakeSteam
 fakeSteam Dudka Panel, Tipur Support Panel | https://steamcommunutlu.com/admin/auth
