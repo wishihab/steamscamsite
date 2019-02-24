@@ -17,6 +17,7 @@
 | Free item / arcana | https://dota2land.com | free trade arcana | 02/16/2019 |
 | Free item / arcana | https://bestskinsdota2.pro/ | free trade arcana | 02/23/2019 |
 | Free item / arcana | http://bestdota2arcana.tk | free trade arcana | 02/23/2019 |
+| Dota 2 Roulette | https://d2bingo.com/ | Roulette | 02/24/2019 |
 
 
 # Example Admin Login Page FakeSteam
