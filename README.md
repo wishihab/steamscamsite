@@ -21,6 +21,7 @@
 | Dota 2 Roulette | https://d2bingo.ru/ | Roulette | 02/25/2019 |
 | Dota 2 Roulette | https://dota2buf.com/ | Roulette | 03/9/2019 |
 | Dota 2 Roulette | http://dota2bit.online/ | Roulette | 03/9/2019 |
+| Dota 2 Roulette | https://d2shot.com | Roulette ez win | 03/14/2019 |
 
 
 
