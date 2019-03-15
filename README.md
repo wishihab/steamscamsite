@@ -22,12 +22,15 @@
 | Dota 2 Roulette | https://dota2buf.com/ | Roulette | 03/9/2019 |
 | Dota 2 Roulette | http://dota2bit.online/ | Roulette | 03/9/2019 |
 | Dota 2 Roulette | https://d2shot.com | Roulette ez win | 03/14/2019 |
-
+| Open Case | https://csgoma9ic.pro/ | cheap Case | 03/15/2019 |
 
 
 # Example Admin Login Page FakeSteam
 fakeSteam Dudka Panel, Tipur Support Panel | https://steamcommunutlu.com/admin/auth
 fakeLogin https://dota2.money/m1LX4kN6tk/pj52xrmek5/5pepfpobq3?q=m1LX4kN6tk&s=53fb783aa73af07161a41431efb5cce4
+
+# Roulette Panel
+![ScreenShot](https://github.com/wishihab/steamscamsite/blob/master/Roulette_ru.png)
 
 # 100% Scam?
 Should be. 
