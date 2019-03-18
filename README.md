@@ -23,6 +23,8 @@
 | Dota 2 Roulette | http://dota2bit.online/ | Roulette | 03/9/2019 |
 | Dota 2 Roulette | https://d2shot.com | Roulette ez win | 03/14/2019 |
 | Open Case | https://csgoma9ic.pro/ | cheap Case | 03/15/2019 |
+| Giveaway | http://winnercsgo.cf | Winner of giveaway | 03/18/2019 |
+| Giveaway | https://winnercsgo.tk/ | Winner of giveaway | 03/18/2019 |
 
 
 # Example Admin Login Page FakeSteam
