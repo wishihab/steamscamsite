@@ -26,6 +26,8 @@
 | Giveaway | http://winnercsgo.cf | Winner of giveaway | 03/18/2019 |
 | Giveaway | https://winnercsgo.tk/ | Winner of giveaway | 03/18/2019 |
 | Dota 2 Roulette | https://d2flaw.com/ | Roulette ez win | 03/18/2019 |
+| Free Arcana | https://dotamike.fun/ | Free luxury item | 03/22/2019 |
+
 
 
 
