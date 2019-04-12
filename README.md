@@ -31,6 +31,7 @@
 | Open Case | https://skinsrewards.com/ | cheap Case and promo | 04/2/2019 |
 | Free Item | http://dota2items.pro | Free luxury item | 04/12/2019 |
 | Free Item | https://mydota.pro/ | Free luxury item | 04/12/2019 |
+| Free Game | https://dagameroulette.com | Free Game Roulette | 04/12/2019 |
 
 
 # Example Admin Login Page FakeSteam
