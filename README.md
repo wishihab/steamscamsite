@@ -33,6 +33,10 @@
 | Free Item | https://mydota.pro/ | Free luxury item | 04/12/2019 |
 | Free Game | https://dagameroulette.com | Free Game Roulette | 04/12/2019 |
 | Open Case | https://golddrop.life/ | cheap Case and promo | 04/12/2019 |
+| Free Arcana | http://dota2.cf/ | Free Arcana | 05/10/2019 |
+| Free Item | https://dota2drop.pro/| Free luxury item | 05/10/2019 |
+
+
 
 
 
