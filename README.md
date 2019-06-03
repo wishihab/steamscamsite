@@ -2,7 +2,7 @@
 <h3 align="center">Please Don't Open This Site, I Haven't Responsible For Any Problem.</h1>
 <h4 align="center">(https://github.com/wishihab/steamscamsite/blob/master/README-2018.md)</h1>
 <h4 align="center">Stay Safe, I'm Paranoid</h1>
-<h4 align="center">This readme contains 10 latest scam link</h1>
+<h4 align="center">This readme contains latest scam link</h1>
 
 
 | Name | Link | Behavior | Last Check |
@@ -35,6 +35,8 @@
 | Open Case | https://golddrop.life/ | cheap Case and promo | 04/12/2019 |
 | Free Arcana | http://dota2.cf/ | Free Arcana | 05/10/2019 |
 | Free Item | https://dota2drop.pro/| Free luxury item | 05/10/2019 |
+| Free Item | https://dota2land.site/ | Free Luxury Item | 06/03/2019 |
+
 
 
 
