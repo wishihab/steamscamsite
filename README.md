@@ -39,7 +39,7 @@
 | Free Item | http://dota2-raffle.site | Free Luxury Item | 06/09/2019 |
 | Free Arcana | http://skisn-cash.pw | Free Arcana | 06/20/2019 |
 | Invited to tournament | https://mixtourney.com | Join games tournament | 08/02/2019 |
-
+| Free Item | https://dota-skins.info/ | Free Luxury Item | 09/12/2019 |
 
 
 
