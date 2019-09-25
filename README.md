@@ -40,6 +40,8 @@
 | Free Arcana | http://skisn-cash.pw | Free Arcana | 06/20/2019 |
 | Invited to tournament | https://mixtourney.com | Join games tournament | 08/02/2019 |
 | Free Item | https://dota-skins.info/ | Free Luxury Item | 09/12/2019 |
+| Free Arcana | http://dota2-trill.site | Free Arcana and Immortal | 09/25/2019 |
+| Free Arcana | https://dota2-pill.fun/ | Free Arcana and Immortal | 09/25/2019 |
 
 
 
