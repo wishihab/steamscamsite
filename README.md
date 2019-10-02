@@ -42,6 +42,8 @@
 | Free Item | https://dota-skins.info/ | Free Luxury Item | 09/12/2019 |
 | Free Arcana | http://dota2-trill.site | Free Arcana and Immortal | 09/25/2019 |
 | Free Arcana | https://dota2-pill.fun/ | Free Arcana and Immortal | 09/25/2019 |
+| Free Item | https://dota2-vesi.fun/ | Free Luxury Item | 10/02/2019 |
+| Free Item | http://dota2-vesi.site | Free Luxury Item | 10/02/2019 |
 
 
 
