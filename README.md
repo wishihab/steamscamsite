@@ -45,7 +45,7 @@
 | Free Item | https://dota2-vesi.fun/ | Free Luxury Item | 10/02/2019 |
 | Free Item | http://dota2-vesi.site | Free Luxury Item | 10/02/2019 |
 | Item Roll | https://vpgame.pw/ | Join roll | 10/02/2019 |
-
+| Giveaways | http://skins-lootbox.info | Giveaways | 10/02/2019 |
 
 
 
