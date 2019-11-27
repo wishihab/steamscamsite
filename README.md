@@ -47,7 +47,7 @@
 | Item Roll | https://vpgame.pw/ | Join roll | 10/02/2019 |
 | Giveaways | http://skins-lootbox.info | Giveaways | 10/02/2019 |
 | Game Roll | https://boubleroll.fun | Free Game Roll | 11/07/2019 |
-
+| Item Roll | https://dota2lin.fun/ | Free Dota 2 Item Roll | 11/27/2019 |
 
 
 
