@@ -9,6 +9,8 @@
 | Name | Link | Behavior | Last Check |
 | ------------------ | ------------------------- | ------------------------- | ---------- |
 | Free Item | https://csgoxtop.tk | Free Item | 02/01/2020 |
+| Free Item | http://free-arcana.info/ | Free Item | 04/02/2020 |
+| Free Item | http://free-drop.info/ | Free Item | 04/01/2020 |
 
 
 
