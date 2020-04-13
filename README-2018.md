@@ -106,14 +106,8 @@
 | Skins Scam | http://skinstats.net/ | by issues | 2018 |
 | Skins Scam | http://tf2pounce.com/ | by issues | 2018 |
 
-# Example Admin Login Page FakeSteam
-fakeSteam Dudka Panel, Tipur Support Panel | https://steamcommunutlu.com/admin/auth
-
 # 100% Scam?
 Should be. 
 
 # How?
 Reading the code, behavior, analyzing, sumbit/report, try.
-
-# Submit?
-send issues or send wishihab@gmail.com https://steamcommunity.com/id/wishihab
