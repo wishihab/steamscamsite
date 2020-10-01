@@ -14,7 +14,7 @@
 | Free Item | https://skin-drop.info/ | Free Item | 13/02/2020 |
 | Gift Promo Code | https://skincase.su/ | Free Item & GiftCode & Case | 17/03/2020 |
 | Tournament DOTA CSGO | https://proecupgo.com/ | Invite to Tournament | 12/04/2020 |
-
+| Tournament DOTA, CSGO, LOL etc | https://esports-hub.info/ | Invite to Tournament | 01/10/2020 |
 
 
 
