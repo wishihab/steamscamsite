@@ -10,7 +10,7 @@
 | Name | Link | Behavior | Last Check |
 | ------------------ | ------------------------- | ------------------------- | ---------- |
 | Free Item | https://csgotradeoffers.icu | Gift / Free Item | 12/02/2021 |
-
+| Free Item | https://steamtrading.icu | Gift / Free Item | 14/02/2021 |
 
 
 # Example Admin Login Page FakeSteam
