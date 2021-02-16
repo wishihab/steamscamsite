@@ -11,6 +11,8 @@
 | ------------------ | ------------------------- | ------------------------- | ---------- |
 | Free Item | https://csgotradeoffers.icu | Gift / Free Item | 12/02/2021 |
 | Free Item | https://steamtrading.icu | Gift / Free Item | 14/02/2021 |
+| Free Item | https://csgotrades.icu | Gift / Free Item | 16/02/2021 |
+
 
 
 # Example Admin Login Page FakeSteam
