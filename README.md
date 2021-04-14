@@ -15,7 +15,7 @@
 | Invited | https://5ehplay.com/ | Join Team / Tournament | 18/03/2021 |
 | Trade Item | https://stemmcomunity.com/ | Trade with Arcana and Knife | 29/03/2021 |
 | Invited | https://5veplay.com/ | Join Team / Tournament | 9/04/2021 |
-
+| Trade Item | https://steamstorepowered.club/ | Trade with Arcana and Knife | 14/04/2021 |
 
 
 # Example Admin Login Page FakeSteam
