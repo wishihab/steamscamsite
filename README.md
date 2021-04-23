@@ -20,6 +20,9 @@
 | Invited | https://5eqlay.com/ | Join Team / Tournament | 20/04/2021 |
 | Streamer | https://meow24.cn/ | Be a streamer | 21/04/2021 |
 | Gift & Trade Item | https://steamappspowered.info/ | Trade with Arcana and Knife | 22/04/2021 |
+| Invited | https://5zeplay.com/ | Join Team / Tournament | 23/04/2021 |
+
+
 
 
 
