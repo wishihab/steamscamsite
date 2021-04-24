@@ -21,7 +21,8 @@
 | Streamer | https://meow24.cn/ | Be a streamer | 21/04/2021 |
 | Gift & Trade Item | https://steamappspowered.info/ | Trade with Arcana and Knife | 22/04/2021 |
 | Invited | https://5zeplay.com/ | Join Team / Tournament | 23/04/2021 |
-
+| Gift & Trade Item | https://steamcommunityapp.com/ | Trade with Arcana and Knife | 24/04/2021 |
+| Invited | https://5leplay.com/ | Join Team / Tournament | 24/04/2021 |
 
 
 
