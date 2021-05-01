@@ -24,7 +24,7 @@
 | Gift & Trade Item | https://steamcommunityapp.com/ | Trade with Arcana and Knife | 24/04/2021 |
 | Invited | https://5leplay.com/ | Join Team / Tournament | 24/04/2021 |
 | Gift & Loot Item | https://beastloot.com/ | Promocode free 20$ | 29/04/2021 |
-
+| Gift & Loot Item | https://buffloot.com/ | Promocode free 20$ | 1/05/2021 |
 
 
 
