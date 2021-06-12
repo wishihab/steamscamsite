@@ -26,7 +26,7 @@
 | Gift & Loot Item | https://beastloot.com/ | Promocode free 20$ | 29/04/2021 |
 | Gift & Loot Item | https://buffloot.com/ | Promocode free 20$ | 1/05/2021 |
 | Gift Item | https://steamwallet.info/ | Free Bayonets | 26/05/2021 |
-| Gift Item | https://steamcharts.info/ | Free Bayonets | 26/05/2021 |
+| Gift Item | https://steamcharts.info/ | Free Bayonets | 12/06/2021 |
 
 
 
