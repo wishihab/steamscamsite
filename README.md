@@ -28,6 +28,7 @@
 | Gift Item | https://steamwallet.info/ | Free Bayonets | 26/05/2021 |
 | Gift Item | https://steamcharts.info/ | Free Bayonets | 12/06/2021 |
 | Trade | https://steamextensions.info/ | Free Trade | 13/06/2021 |
+| Trade | https://steamblog.info/ | Free Trade Bayonet | 20/06/2021 |
 
 
 
