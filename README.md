@@ -29,7 +29,10 @@
 | Gift Item | https://steamcharts.info/ | Free Bayonets | 12/06/2021 |
 | Trade | https://steamextensions.info/ | Free Trade | 13/06/2021 |
 | Trade | https://steamblog.info/ | Free Trade Bayonet | 20/06/2021 |
-| Betting | https://dota2bestyolo.com/ | Verify account to withdraw | 25/06/2021 |
+| Betting | https://dota2bestyolo.com/ | Verify account to withdraw | 25/07/2021 |
+| Bayonet Trade | https://steamweb.info/ | Verify account to withdraw | 17/06/2021 |
+
+
 
 
 # Example Admin Login Page FakeSteam
