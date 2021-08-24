@@ -31,6 +31,7 @@
 | Trade | https://steamblog.info/ | Free Trade Bayonet | 20/06/2021 |
 | Betting | https://dota2bestyolo.com/ | Verify account to withdraw | 25/07/2021 |
 | Bayonet Trade | https://steamweb.info/ | Verify account to withdraw | 17/06/2021 |
+| Bet Roulette| https://tf2sensation.com/ | Betting Jackpot | 24/08/2021 |
 
 
 
