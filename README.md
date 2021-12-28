@@ -33,7 +33,7 @@
 | Bet Roulette| https://tf2sensation.com/ | Betting Jackpot | 24/08/2021 |
 | Tournament| https://cyber187.com/ | Invite Tournament, fake login | 24/08/2021 |
 | Vote| https://league80.com/ | Voting to win the game point | 28/12/2021 |
-
+| Vote| https://league01.com/ | Voting to win the game point | 28/12/2021 |
 
 
 # Example Admin Login Page FakeSteam
