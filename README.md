@@ -32,7 +32,7 @@
 | Bayonet Trade | https://steamweb.info/ | Verify account to withdraw | 17/06/2021 |
 | Bet Roulette| https://tf2sensation.com/ | Betting Jackpot | 24/08/2021 |
 | Tournament| https://cyber187.com/ | Invite Tournament, fake login | 24/08/2021 |
-
+| Vote| https://league80.com/ | Voting to win the game point | 28/12/2021 |
 
 
 
