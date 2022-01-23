@@ -36,18 +36,3 @@
 | Vote| https://league01.com/ | Voting to win the game point | 28/12/2021 |
 
 
-# Example Admin Login Page FakeSteam
-fakeSteam Dudka Panel, Tipur Support Panel | https://steamcommunutlu.com/admin/auth
-fakeLogin https://dota2.money/m1LX4kN6tk/pj52xrmek5/5pepfpobq3?q=m1LX4kN6tk&s=53fb783aa73af07161a41431efb5cce4
-
-# Roulette Panel
-![ScreenShot](https://github.com/wishihab/steamscamsite/blob/master/Roulette_ru.png)
-
-# 100% Scam?
-Should be. 
-
-# How?
-Reading the code, behavior, analyzing, sumbit/report, try.
-
-# Submit?
-send issues or send wishihab@gmail.com https://steamcommunity.com/id/wishihab
